@@ -1,0 +1,17 @@
+Pwd 
+Touch 
+Vi 
+Cat     : Show contents of in a file
+
+mkdir
+rm
+rm -r
+ls     : ls List files in current dire
+ls -ltr
+top
+df
+df -h 
+free
+free -g
+nproc
+
