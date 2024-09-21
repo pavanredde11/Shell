@@ -1,13 +1,15 @@
-Pwd 
-Touch 
-Vi 
-Cat     : Show contents of in a file
-mkdir
-rm
+Pwd - to indentify the current directory
+Touch - to create a file
+cd - we can change any directory 
+Vi - to create a file and edit a file
+Cat   - Show contents of in a file
+mkdir - to make a directory
+rm - to remove a file or directory
 rm -r
-ls     : ls List files in current dire
+ls    - ls List files in current dire
 ls -ltr
-top
+
+top 
 df
 df -h 
 free
