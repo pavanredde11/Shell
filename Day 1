@@ -10,7 +10,7 @@ ls    - ls List files in current dire
 ls -ltr
 
 top 
-df
+df 
 df -h 
 free
 free -g
