@@ -1,1 +1,33 @@
-#!/bin/ksh
+This are the different executables in Shell Script
+Each of them have there Syntax Differences with slight Varations 
+
+#!/bin/ksh/bash  --- bash is mostly used
+           /sh
+           /ksh
+           /dash
+
+echo 
+cat
+
+How to execute the file 
+sh filename or ./ (sh is suffix)
+
+chmod is the command that grands the permission
+ch stands for change
+mod stands for mode
+1) Root User
+2) Which Group
+3) Everyone
+
+chmod 777
+4 - read
+3 - write
+1 - execute
+Eg :-
+chmod 444 filename (read,read,read)
+
+by typing history we will get history of all commands we entered.
+:q! to exit
+:wq! to save and exit
+mkdir to creat a directory
+
