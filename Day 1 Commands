@@ -2,7 +2,6 @@ Pwd
 Touch 
 Vi 
 Cat     : Show contents of in a file
-
 mkdir
 rm
 rm -r
@@ -15,3 +14,6 @@ free
 free -g
 nproc
 
+Man command is nothing but Manual, which it shows details about the other commands Eg:-
+man ls 
+man touch
