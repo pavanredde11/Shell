@@ -1,10 +1,10 @@
 This are the different executables in Shell Script
 Each of them have there Syntax Differences with slight Varations 
 
-#!/bin/ksh/bash  --- bash is mostly used
-           /sh
-           /ksh
-           /dash
+#!/bin/bash  --- bash is mostly used
+      /sh
+      /ksh
+      /dash
 
 echo 
 cat
@@ -21,7 +21,7 @@ mod stands for mode
 
 chmod 777
 4 - read
-3 - write
+2 - write
 1 - execute
 Eg :-
 chmod 444 filename (read,read,read)
